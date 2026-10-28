@@ -1,6 +1,6 @@
 # Python RAG
 
-> This project is a learning resource. The code comes from [**MarkTechStation** - 使用Python构建RAG系统/rag (Building a RAG System with Python)](https://github.com/MarkTechStation/VideoCode/blob/main/使用Python构建RAG系统/rag/main.ipynb)
+> This project is a learning resource. The code is based on [**MarkTechStation** - 使用Python构建RAG系统/rag (Building a RAG System with Python)](https://github.com/MarkTechStation/VideoCode/blob/main/使用Python构建RAG系统/rag/main.ipynb)
 
 
 ## What is RAG
@@ -79,7 +79,7 @@ Query ─▶ Embedding Model ─▶ Similarity ─▶ Retrieve top 5 ─▶ Rera
 | --- | --- |
 | `main.py` | The full RAG pipeline, runnable directly |
 | `main.ipynb` | The original notebook; see each stage's output step by step |
-| `doc.md` | Sample document (a Doraemon × Super Saiyan story) |
+| `doc.md` | Sample document (an original story, "The Clockmaker's Apprentice of Fog Harbor") |
 
 ## Setup
 

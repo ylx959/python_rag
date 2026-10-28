@@ -113,7 +113,7 @@ def main() -> None:
     embeddings = [embed_chunk(chunk) for chunk in chunks]
     save_embeddings(chunks, embeddings)
 
-    query = "哆啦A夢使用的3個秘密道具分別是什麼？"
+    query = "阿澄從林伯工坊帶走的三件寶物分別是什麼？各有什麼作用？"
 
     # 先粗略召回 5 個，再精排保留 3 個
     retrieved_chunks = retrieve(query, 5)
