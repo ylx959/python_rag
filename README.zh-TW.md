@@ -1,6 +1,6 @@
 # Python RAG
 
-> 本專案是學習用的資源，程式碼來自 [**MarkTechStation** 的使用Python构建RAG系统/rag](https://github.com/MarkTechStation/VideoCode/blob/main/使用Python构建RAG系统/rag/main.ipynb)
+> 本專案是學習用的資源，程式碼參考 [**MarkTechStation** 的使用Python构建RAG系统/rag](https://github.com/MarkTechStation/VideoCode/blob/main/使用Python构建RAG系统/rag/main.ipynb)
 
 
 ## RAG 是什麼
